@@ -3,3 +3,4 @@ Color detection is the process of detecting the name of any color. Simple isn’
 Colors are made up of 3 primary colors; red, green, and blue. In computers, we define each color value within a range of 0 to 255. So in how many ways we can define a color? The answer is 256*256*256 = 16,581,375. There are approximately 16.5 million different ways to represent a color. In our dataset, we need to map each color’s values with their corresponding names. But don’t worry, we don’t need to map all the values. 
 (https://user-images.githubusercontent.com/92232226/136689257-c47e4ad6-7971-4dfc-a301-958e5bcc6b11.png)
 (https://user-images.githubusercontent.com/92232226/136689271-f720440b-6b47-4638-aba9-30f838b20248.png)
+![](./screenshot-mobile.png)
